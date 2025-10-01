@@ -8,7 +8,7 @@ on:
     branches: [ main ]
     paths:
       - 'wiki/**'
-      - '.github/workflows/wiki-sync.yml'
+      - '.github/workflows/common-push-wiki.yaml'
 
 permissions: # lets the default token push to the wiki repo
   contents: write
