@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [Wiki Root](/wiki.md)
+- [Wiki Root](wiki/Wiki.md)
 - Folder-A
   - [A](/Folder-A/A.md)
-  - [Test A](/Folder-A/Test.md)
+  - [Test A](wiki/Folder-A/Test.md)
 - Folder-B
-  - [Test B](/Folder-B/Test.md)
+  - [Test B](wiki/Folder-B/Test.md)
