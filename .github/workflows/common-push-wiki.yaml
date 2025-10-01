@@ -45,6 +45,11 @@ jobs:
           rm -rf /tmp/wiki/*
           cp -r /tmp/wiki-content/* /tmp/wiki/
 
+      - name: Debug
+        run: |
+          cd /tmp/wiki
+          ls -Ra
+
       - name: Add edit disclaimer and remove duplicate H1 titles
         run: |
           cd /tmp/wiki
