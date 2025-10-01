@@ -1,8 +1,8 @@
 # This is the folder A sidebar
 
-Go back to wiki root: [here](Wiki.md)
+Go back to wiki root: [here](Wiki)
 
 ## Table of Contents for folder A
 
-- [A](A.md)
-- [Test A](Test-A.md)
+- [A](A)
+- [Test A](Test-A)
