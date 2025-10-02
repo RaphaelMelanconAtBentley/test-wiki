@@ -1,5 +1,7 @@
 # This is my Sidebar
 
+Link to the workflow that pushes the wiki: [common-push-wiki.yaml](../.github/workflows/common-push-wiki.yaml)
+
 ## Table of Contents
 
 - [Wiki Home](Home)
