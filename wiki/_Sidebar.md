@@ -1,6 +1,6 @@
 # This is my Sidebar
 
-Link to the workflow that pushes the wiki: [common-push-wiki.yaml](../.github/workflows/common-push-wiki.yaml)
+Link to the workflow that pushes the wiki: [common-push-wiki.yaml](../blob/main/.github/workflows/common-push-wiki.yaml)
 
 ## Table of Contents
 
